@@ -3,14 +3,13 @@ body{
 } 
     
 button{
-    background-color:blue;
-    padding: 100px; 
-    border: 2px;
+   background-color:blue;
+   padding: 10px; 
+   border: 2px solid white;
    height: 30px;
-   width: 60px;
-   color: aqua;
-   font-size: larger;
+   width: 80px;
+   font-size: 5px;
    cursor: pointer;
    border-radius: 4px;
-    color:black;
+   color:black;
 }
